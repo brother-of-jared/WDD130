@@ -1,0 +1,50 @@
+h1:hover {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: pink;
+}
+
+main p {
+    text-align: center;
+    color: white;
+    margin: 30px auto;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    width: 15%;
+}
+
+ol {
+    color: black;
+    margin-left: 250px;
+}
+
+.qoute1 {
+    font-size: 12px;
+    width: 40%;
+}
+
+.qoute2 {
+    font-size: 30px;
+    width: 30%;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
