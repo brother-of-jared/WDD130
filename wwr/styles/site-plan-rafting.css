@@ -12,8 +12,8 @@ Fonts are separated by a & */
   --accent2-color: #90E0EF;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Lemonada";
-  --paragraph-font: "Quicksand", Helvetica, sans-serif;
+  --heading-font: 'Lemonada', serif;
+  --paragraph-font: 'Quicksand', Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #285475;  /* headlines on a white background */ 
